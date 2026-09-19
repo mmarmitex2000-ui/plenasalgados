@@ -1,0 +1,200 @@
+{
+  "delivery": {
+    "CATEGORIES": [
+      {
+        "id": "salgados",
+        "name": "Salgados"
+      },
+      {
+        "id": "churros",
+        "name": "Churros"
+      },
+      {
+        "id": "combos",
+        "name": "Combos"
+      },
+      {
+        "id": "bebidas",
+        "name": "Bebidas"
+      }
+    ],
+    "PRODUCTS": {
+      "salgados": [
+        {
+          "id": "salgado-bolinha",
+          "title": "Bolinha de Queijo",
+          "desc": "Porção de bolinhas de queijo.",
+          "img": "https://firebasestorage.googleapis.com/v0/b/paineldepedidos-8cfff.firebasestorage.app/o/produtos%2F1787076826574.jfif?alt=media&token=83c21d17-9098-4862-8ee7-211f62cdd396",
+          "sizes": {
+            "25": 37.49,
+            "50": 74.97,
+            "75": 112.46,
+            "100": 149.94
+          }
+        },
+        {
+          "id": "salgado-coxinha",
+          "title": "Coxinha de Frango",
+          "desc": "Porção de coxinhas de frango cremosas.",
+          "img": "https://firebasestorage.googleapis.com/v0/b/paineldepedidos-8cfff.firebasestorage.app/o/coxinha.png?alt=media&token=61cc2922-5a66-46fb-98b4-27d4d5cd6128",
+          "sizes": {
+            "25": 37.49,
+            "50": 74.97,
+            "75": 112.46,
+            "100": 149.94
+          }
+        },
+        {
+          "id": "salgado-risole",
+          "title": "Risole de Queijo e Presunto",
+          "desc": "Porção de risoles de queijo e presunto.",
+          "img": "https://firebasestorage.googleapis.com/v0/b/paineldepedidos-8cfff.firebasestorage.app/o/produtos%2F1787077045175.png?alt=media&token=a25a1765-8939-4ce3-a639-15fa0c8bbde6",
+          "sizes": {
+            "25": 37.49,
+            "50": 74.97,
+            "75": 112.46,
+            "100": 149.94
+          }
+        },
+        {
+          "id": "WnhWj1hkEKVgyVHJJZMJ",
+          "title": "Salgados sortidos",
+          "desc": "salgados sortidos \ncoxinha, risole e bolinha de queijo",
+          "img": "https://firebasestorage.googleapis.com/v0/b/paineldepedidos-8cfff.firebasestorage.app/o/produtos%2F1787076290093.png?alt=media&token=0c97fea2-2e67-4dd7-82f8-049591d479b6",
+          "sizes": {
+            "25": 37.49,
+            "50": 74.97,
+            "75": 112.46,
+            "100": 149.94
+          }
+        }
+      ],
+      "churros": [
+        {
+          "id": "CHT0KrOy8sAeXZrdPqmB",
+          "title": "Mini Churros Doce de leite (25 unid.)",
+          "desc": "Porção de mini churros de doce de leite",
+          "img": "https://firebasestorage.googleapis.com/v0/b/paineldepedidos-8cfff.firebasestorage.app/o/produtos%2F1787076438966.png?alt=media&token=c9f2fbb4-8122-49d3-8943-8ba07d07a8c6",
+          "sizes": {
+            "25": 37.99,
+            "50": 74.97
+          }
+        }
+      ],
+      "combos": [
+        {
+          "id": "combo1",
+          "title": "Combo 1 — 25 Salgados + Refrigerante 2L",
+          "desc": "25 salgados sortidos + 1 refrigerante 2L.",
+          "img": "img/combo1.png",
+          "sizes": {
+            "25": 59.99,
+            "50": 109.99,
+            "100": 199.99
+          }
+        },
+        {
+          "id": "combo2",
+          "title": "Combo 2 — 25 Salgados + Churros 25un",
+          "desc": "25 salgados sortidos + porção de 25 mini churros.",
+          "img": "img/combo2.png",
+          "sizes": {
+            "25": 69.99,
+            "50": 129.99
+          }
+        },
+        {
+          "id": "combo3",
+          "title": "Combo 3 — 50 Salgados + Refrigerante 2L + Churros 25un",
+          "desc": "50 salgados sortidos + 1 refrigerante 2L + 25 mini churros.",
+          "img": "img/combo3.png",
+          "sizes": {
+            "50": 149.99,
+            "100": 279.99
+          }
+        },
+        {
+          "id": "combo4",
+          "title": "Combo Família — 100 Salgados + 2 Refrigerantes 2L",
+          "desc": "100 salgados sortidos + 2 refrigerantes 2L.",
+          "img": "img/combo4.png",
+          "sizes": {
+            "100": 219.99
+          }
+        }
+      ],
+      "bebidas": [
+        {
+          "id": "b15",
+          "title": "Budweiser Long Neck 350ml",
+          "desc": "Cerveja Budweiser garrafa long neck 350ml.",
+          "img": "https://firebasestorage.googleapis.com/v0/b/paineldepedidos-8cfff.firebasestorage.app/o/produtos%2F1787077804268.png?alt=media&token=4754a0f4-4b6f-4fdc-beb4-18d5602e98cc",
+          "price": 15.99
+        },
+        {
+          "id": "b13",
+          "title": "Coca-Cola 2L",
+          "desc": "Garrafa 2 litros.",
+          "img": "https://firebasestorage.googleapis.com/v0/b/paineldepedidos-8cfff.firebasestorage.app/o/produtos%2F1787077467643.png?alt=media&token=83adf066-c54d-428f-8e9f-512a6531af8c",
+          "price": 21.99
+        },
+        {
+          "id": "b1",
+          "title": "Coca-Cola 350ml",
+          "desc": "Lata 350ml.",
+          "img": "https://firebasestorage.googleapis.com/v0/b/paineldepedidos-8cfff.firebasestorage.app/o/produtos%2F1787077484608.png?alt=media&token=ead5e390-a3ce-48bc-8f55-4dde7960cf89",
+          "price": 9.99
+        },
+        {
+          "id": "b12",
+          "title": "Convenção Frutbaína 2L",
+          "desc": "Garrafa 2 litros.",
+          "img": "https://firebasestorage.googleapis.com/v0/b/paineldepedidos-8cfff.firebasestorage.app/o/convencao-frutbaina-2l.png?alt=media&token=06c45d4c-9fee-4a09-bb92-4774898d13fc",
+          "price": 11.99
+        },
+        {
+          "id": "b11",
+          "title": "Convenção Guaraná 2L",
+          "desc": "Garrafa 2 litros.",
+          "img": "https://firebasestorage.googleapis.com/v0/b/paineldepedidos-8cfff.firebasestorage.app/o/convencao-frutbaina-2l.png?alt=media&token=06c45d4c-9fee-4a09-bb92-4774898d13fc",
+          "price": 11.99
+        },
+        {
+          "id": "b9",
+          "title": "Dell Vale laranja 450ml",
+          "desc": "pet 450ml.",
+          "img": "https://firebasestorage.googleapis.com/v0/b/paineldepedidos-8cfff.firebasestorage.app/o/produtos%2F1787077550539.png?alt=media&token=c27e30a9-b784-4862-904e-f481f7a42bea",
+          "price": 9.99
+        },
+        {
+          "id": "b10",
+          "title": "Dell Vale Uva 450ml",
+          "desc": "pet 450ml.",
+          "img": "https://firebasestorage.googleapis.com/v0/b/paineldepedidos-8cfff.firebasestorage.app/o/produtos%2F1787077528403.png?alt=media&token=630e8e0a-610a-4b85-8175-b3fa2408db52",
+          "price": 9.99
+        },
+        {
+          "id": "b2",
+          "title": "Guaraná 350ml",
+          "desc": "Lata 350ml.",
+          "img": "https://firebasestorage.googleapis.com/v0/b/paineldepedidos-8cfff.firebasestorage.app/o/produtos%2F1787077682856.png?alt=media&token=916f494c-cb9d-43b6-a34e-7e2b12646db6",
+          "price": 9.99
+        },
+        {
+          "id": "b14",
+          "title": "Heineken Long Neck 350ml",
+          "desc": "Cerveja Heineken garrafa long neck 350ml.",
+          "img": "https://firebasestorage.googleapis.com/v0/b/paineldepedidos-8cfff.firebasestorage.app/o/produtos%2F1787077834977.png?alt=media&token=fd3dba39-79b8-4512-831e-56cd7a51bfd9",
+          "price": 15.99
+        },
+        {
+          "id": "b5",
+          "title": "Itubaína 350ml",
+          "desc": "Lata 350ml.",
+          "img": "https://firebasestorage.googleapis.com/v0/b/paineldepedidos-8cfff.firebasestorage.app/o/produtos%2F1787077704437.png?alt=media&token=bbda6054-ca24-468c-bee3-3f69322d3485",
+          "price": 9.99
+        }
+      ]
+    }
+  }
+}
